@@ -6,3 +6,4 @@ const test = (a, b) => {
 };
 
 console.log(test(30, 40));
+//test
